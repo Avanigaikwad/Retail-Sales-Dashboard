@@ -53,7 +53,3 @@ The dashboard helps decision-makers track **key metrics**, compare store perform
 
 ---
 
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Retail-Sales-Dashboard.git
