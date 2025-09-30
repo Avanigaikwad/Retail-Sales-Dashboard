@@ -38,7 +38,7 @@ The dashboard helps decision-makers track **key metrics**, compare store perform
 
 ---
 
-## 📍 Screenshots
+## 📍 Dashboards
 ### Dashboard 1
 ![Dashboard 1](./screenshots/dashboard1.png)
 
